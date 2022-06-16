@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react';
 import './App.css';
 import ExistingPatientForm from './components/ExistingPatientForm';
 import Header from './components/Header';
